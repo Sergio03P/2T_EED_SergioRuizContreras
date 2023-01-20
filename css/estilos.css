@@ -1,0 +1,10 @@
+h1{
+    border: 1px solid blueviolet;
+  
+}
+
+.cuadrado{
+    width: 50px;
+    background-color: crimson;
+    height: 50px;
+}
